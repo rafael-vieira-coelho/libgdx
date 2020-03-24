@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="24" tileheight="24" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="sewer_tileset" tilewidth="24" tileheight="24" tilecount="72" columns="8">
+  <image source="sewer_tileset.png" trans="ff00ff" width="192" height="217"/>
+ </tileset>
+ <layer id="1" name="Bottom" width="50" height="50" offsetx="-1.06236" offsety="0">
+  <data encoding="base64" compression="zlib">
+   eJztmktPwzAMgCNu2xjSBkLicRmv8Txz5IL4/z8JT8SSZTmvuVvs0sMnVU3b9HNjJ5m2DCGcAXeRU2BJzt0Dt5ENa6dt0jWt0PfgfZfg9/9HjwfgFXiM7I6fjHhcACfApfPvMQPmwELhgbFoBWM3hMcKWAPnCg+MhcQ204axw/H6pvDg7OOBsaA8C+c4Uux6ebzEWGpo+Q6Hqru9GNrjCrgGbpx7bIT7jgGvd9r5A/NjnzGugda7mvmDelrKD1rvauYP6mkpP1L1NlV3d54/0dNSfrTUcj43SDnQKz8mJiZ0YC3lHLu2asFamqvJHpD2qtbWu7UefK+qXZek9oQUvn/PXVvrwfeqqXVJi8esAPeQrmn1wPXIOuTXJa0eqwzcg7cvyHNq+kztVTVrD+w/9RtQalxJz6r1OARj80i5jMWD8xX+8kHCkgdtkzw+gfcMPT1ojpQ8pHFG63FPD/ouk0d/j5b88OLB2Y7Eg783Xdt9GPf4Lnh4+R7zxLF3j9J+xJJHbcxzWPIoxTw311jzkGqWNK48ekjH1j1yue3Fo8QYPDzlB0X6z4OXeqXBgsdQ/AJ1CO1i
+  </data>
+ </layer>
+ <layer id="2" name="Top" width="50" height="50" opacity="0.49">
+  <data encoding="base64" compression="zlib">
+   eJzt1rsNgDAMRdEUQAVMwA4U/ApEx/4z8Yp4ARTJMdwjXaWznM4p1WX3XqAQ/lGXqP+Y1ZJb1ea7zmuHOtWd36vQ3Ea1qis0z0uvBjV6LwIAAIAQ7A62ot7Ddgdb3MPAv0zeCwAAAAAAAOCzHsNoA7E=
+  </data>
+ </layer>
+</map>
