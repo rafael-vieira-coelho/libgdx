@@ -3,6 +3,8 @@ Uso da biblioteca LibGDX para implementação de Games em Linguagem de Programa�
 
 LibGDX - Parte 1 - Introdução
 
+https://youtu.be/ivAG-BtUzzc
+
 LibGDX - Parte 2 - Jogo Simples
 
 LibGDX - Parte 3 - Arquivos, Rede e Preferências
