@@ -13,6 +13,8 @@ LibGDX - Parte 3 - Arquivos, Rede e Preferências
 
 LibGDX - Parte 4 - Entrada de Dados
 
+https://youtu.be/jNBiXYhUizs
+
 LibGDX - Parte 5 - Jogo Complexo (Icicles)
 
 LibGDX - Parte 5.1 - Versão 1 - Construção do Projeto
