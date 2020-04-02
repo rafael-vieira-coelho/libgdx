@@ -7,6 +7,8 @@ https://youtu.be/TMq5n8yGXUg
 
 LibGDX - Parte 2 - Jogo Simples
 
+https://youtu.be/viHrsvYmNYY
+
 LibGDX - Parte 3 - Arquivos, Rede e Preferências
 
 LibGDX - Parte 4 - Entrada de Dados
