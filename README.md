@@ -21,6 +21,8 @@ LibGDX - Parte 5.1 - Versão 1 - Construção do Projeto
 
 LibGDX - Parte 5.2 - Versão 2 - Desenha icicle
 
+https://youtu.be/HRviGzMRPEY
+
 LibGDX - Parte 5.3 - Versão 3 - Desenha Jogador
 
 LibGDX - Parte 5.4 - Versão 4 - Controle de Teclado (setas)
