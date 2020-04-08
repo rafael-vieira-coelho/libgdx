@@ -44,3 +44,5 @@ https://youtu.be/B7AUXBC82m8
 LibGDX - Parte 5.9 - Versão 9 - Adiciona níveis de dificuldade
 
 LibGDX - Parte 5.10 - Versão 10 - Adiciona tela de seleção de nível de dificuldade
+
+https://youtu.be/qlMkKanj1yA
