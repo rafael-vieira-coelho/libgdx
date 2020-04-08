@@ -27,6 +27,8 @@ LibGDX - Parte 5.3 - Versão 3 - Desenha Jogador
 
 LibGDX - Parte 5.4 - Versão 4 - Controle de Teclado (setas)
 
+https://youtu.be/E9SfVUTMeTk
+
 LibGDX - Parte 5.5 - Versão 5 - Adiciona Icicles
 
 LibGDX - Parte 5.6 - Versão 6 - Remove Icicles que somem da tela
