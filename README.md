@@ -39,6 +39,8 @@ LibGDX - Parte 5.7 - Versão 7 - Detecta Colisão
 
 LibGDX - Parte 5.8 - Versão 8 - Adiciona o HUD
 
+https://youtu.be/B7AUXBC82m8
+
 LibGDX - Parte 5.9 - Versão 9 - Adiciona níveis de dificuldade
 
 LibGDX - Parte 5.10 - Versão 10 - Adiciona tela de seleção de nível de dificuldade
