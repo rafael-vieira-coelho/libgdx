@@ -33,6 +33,8 @@ LibGDX - Parte 5.5 - Versão 5 - Adiciona Icicles
 
 LibGDX - Parte 5.6 - Versão 6 - Remove Icicles que somem da tela
 
+https://youtu.be/jJNX0OJjegI
+
 LibGDX - Parte 5.7 - Versão 7 - Detecta Colisão
 
 LibGDX - Parte 5.8 - Versão 8 - Adiciona o HUD
